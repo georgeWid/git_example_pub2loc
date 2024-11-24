@@ -3,4 +3,4 @@
 Aenderung wurden direkt in GitHub gemacht!
 
 Z.B. heute 24.11.2024  
-15:32 h
+15:34 h
